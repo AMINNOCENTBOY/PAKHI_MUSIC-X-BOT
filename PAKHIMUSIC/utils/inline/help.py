@@ -221,8 +221,8 @@ def private_help_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✭𝙷𝙴𝙻𝙿 ♡︎ 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂✭",
-                callback_data="settings_back_helper",
+                text=_["S_B_4"],
+                url=f"https://t.me/{app.username}?start=help",
             ),
         ],
     ]

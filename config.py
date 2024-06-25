@@ -12,11 +12,11 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","VICKY_CHOUDHARY_1203")
+OWNER_USERNAME = getenv("OWNER_USERNAME","InnocentIdkaaa")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "PAKHI_MUSIC_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Hdtv46_bot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "𝐏αкнι ✗ ɱυѕιƈ, 🎶 [ᴠ ᴘ]")
+BOT_NAME = getenv("BOT_NAME" , "Hdfj")
 #get Your Assistant User name
 ASSUSERNAME = getenv("ASSUSERNAME" , "GUPP_SHUP_ASSTANT")
 EVALOP = list(map(int, getenv("EVALOP", "7001982096").split()))
@@ -31,7 +31,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", -1002170965430))
 # ------------------------------------------------
 GPT_API = getenv("GPT_API")
 # Get this value from  on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7001982096))
+OWNER_ID = int(getenv("OWNER_ID", 6881858123))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -59,7 +59,7 @@ SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
 PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "2500"))
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
-AUTO_LEAVING_ASSISTANT =bool (getenv("AUTO_LEAVING_ASSISTANT", "False"))
+AUTO_LEAVING_ASSISTANT =int(getenv("AUTO_LEAVING_ASSISTANT", "False"))
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
 SONG_DOWNLOAD_DURATION_LIMIT = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "9999999"))

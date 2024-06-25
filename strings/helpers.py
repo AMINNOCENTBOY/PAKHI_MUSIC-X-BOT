@@ -273,7 +273,7 @@ HELP_21 = """
 ⦿ /short ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʟɪɴᴋ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sʜᴏʀᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ.
 ⦿ /pdf ➠ ʀᴇᴘʟʏ ᴛᴏ ᴊᴘᴇɢ ғɪʟᴇ ᴛᴏ ᴄᴏɴᴠᴇʀᴛ ɪᴍᴀɢᴇ ᴛᴏ ᴘᴅғ.
 
-𖣔✯...❀𝔹𝐘🍁𖤍[🔥—𝐈𝐍𝐍𝐂𝐎𝐄𝐍𝐓_𝐉𝐀𝐀𝐓—❤️‍🔥](https://t.me/VICKY_CHOUDHARY_1203)...🍁✯𖣔"""
+✯ᴍᴀᴅᴇ ʙʏ✯ [✭ᴋɪɴɢ✭](https://t.me/InnocentIdkaaa)"""
 
 HELP_22 = """
 <b><u>Iᴍᴀɢᴇ :</b></u>
@@ -283,7 +283,7 @@ HELP_22 = """
 ⦿ /image ➠ sᴇᴀʀᴄʜᴇs ғᴏʀ ᴀɴ ɪᴍᴀɢᴇ ʙᴀsᴇᴅ ᴏɴ ᴀ ɢɪᴠᴇɴ ᴋᴇʏᴡᴏʀᴅ.
 ⦿ /upscale ➠ ʀᴇᴘʟʏ ᴛᴏ ᴀɴ ɪᴍᴀɢᴇ ᴛᴏ ᴜᴘsᴄᴀʟᴇ ɪᴛ ᴀɴᴅ ɪᴍᴘʀᴏᴠᴇ ɪᴛs ǫᴜᴀʟɪᴛʏ.
 
-𖣔✯...❀𝔹𝐘🍁𖤍[🔥—𝐈𝐍𝐍𝐂𝐎𝐄𝐍𝐓_𝐉𝐀𝐀𝐓—❤️‍🔥](https://t.me/VICKY_CHOUDHARY_1203)...🍁✯𖣔"""
+✯ᴍᴀᴅᴇ ʙʏ✯ [✭ᴋɪɴɢ✭](https://t.me/InnocentIdkaaa)"""
 
 HELP_23 = """
 <b><u>Aᴄᴛɪᴏɴ :</b></u>
@@ -301,7 +301,7 @@ Admins only:
  ❍ /tmute <userhandle> x(m/h/d): mutes a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
  ❍ /unmute <userhandle>: unmutes a user. Can also be used as a reply, muting the replied to user.
  
-𖣔✯...❀𝔹𝐘🍁𖤍[🔥—𝐈𝐍𝐍𝐂𝐎𝐄𝐍𝐓_𝐉𝐀𝐀𝐓—❤️‍🔥](https://t.me/VICKY_CHOUDHARY_1203)...🍁✯𖣔"""
+✯ᴍᴀᴅᴇ ʙʏ✯ [✭ᴋɪɴɢ✭](https://t.me/InnocentIdkaaa)"""
 
 HELP_24 = """
 <b><u>Sᴇᴀʀᴄʜ :</b></u>
@@ -321,7 +321,7 @@ Available commands:
 Example:
 /google pyrogram: return top 5 reuslts.
 
-𖣔✯...❀𝔹𝐘🍁𖤍[🔥—𝐈𝐍𝐍𝐂𝐎𝐄𝐍𝐓_𝐉𝐀𝐀𝐓—❤️‍🔥](https://t.me/VICKY_CHOUDHARY_1203)...🍁✯𖣔"""
+✯ᴍᴀᴅᴇ ʙʏ✯ [✭ᴋɪɴɢ✭](https://t.me/InnocentIdkaaa)"""
 
 HELP_25 = """
 <b><u>ᴄᴄ :</b></u>
@@ -331,7 +331,7 @@ HELP_25 = """
 /bin ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʙɪɴ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ sᴛᴀᴛᴜs ᴏғ ʙɪɴ.
 /fake ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴀɴʏ ʀᴀɴᴅᴏᴍ ᴄᴏᴜɴᴛʀʏ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ғᴀᴋᴇ ɪɴғᴏ.
 
-𖣔✯...❀𝔹𝐘🍁𖤍[🔥—𝐈𝐍𝐍𝐂𝐎𝐄𝐍𝐓_𝐉𝐀𝐀𝐓—❤️‍🔥](https://t.me/VICKY_CHOUDHARY_1203)...🍁✯𖣔"""
+✯ᴍᴀᴅᴇ ʙʏ✯ [✭ᴋɪɴɢ✭](https://t.me/InnocentIdkaaa)"""
 
 HELP_26 = """
 <b><u>ᴛᴇxᴛ ᴇᴅɪᴛɪɴɢ :</b></u>
@@ -344,7 +344,7 @@ HELP_26 = """
 /write ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴡʀɪᴛᴇ ɪɴ ɴᴏᴛᴇʙᴏᴏᴋ.
 /qr ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴛᴏ ɢᴇᴛ ǫʀ ᴄᴏᴅᴇ ᴏғ ᴛᴇxᴛ.
 
-𖣔✯...❀𝔹𝐘🍁𖤍[🔥—𝐈𝐍𝐍𝐂𝐎𝐄𝐍𝐓_𝐉𝐀𝐀𝐓—❤️‍🔥](https://t.me/VICKY_CHOUDHARY_1203)...🍁✯𖣔"""
+✯ᴍᴀᴅᴇ ʙʏ✯ [✭ᴋɪɴɢ✭](https://t.me/InnocentIdkaaa)"""
 
 HELP_27 = """
 <b><u>ᴍᴀsᴛɪ♡︎ :</b></u>
@@ -370,7 +370,7 @@ HELP_27 = """
 /horny ➠ ᴄʜᴇᴄᴋ ʜᴏᴡ ᴍᴜᴄʜ ʏᴏᴜ ʜᴏɴʀʏ.
 /boob ➠ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ʙᴏᴏʙ sɪᴢᴇ😝.
 
-𖣔✯...❀𝔹𝐘🍁𖤍[🔥—𝐈𝐍𝐍𝐂𝐎𝐄𝐍𝐓_𝐉𝐀𝐀𝐓—❤️‍🔥](https://t.me/VICKY_CHOUDHARY_1203)...🍁✯𖣔"""
+✯ᴍᴀᴅᴇ ʙʏ✯ [✭ᴋɪɴɢ✭](https://t.me/InnocentIdkaaa)"""
 
 HELP_28 = """
 <b><u>ʀᴇᴘᴏ ʀᴇʟᴀᴛᴇᴅ :</b></u>
@@ -379,7 +379,7 @@ HELP_28 = """
 /pypi ➠ ᴇɴᴛᴇʀ ᴘʀᴏᴊᴇᴄᴛ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴛᴀᴛs ᴏғ ᴛʜᴀᴛ ᴘʀᴏᴊᴇᴄᴛ [𝗣𝗿𝗼𝗷𝗲𝗰𝘁 = 𝗚𝗶𝘁𝗵𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀 ].
 /downloadrepo ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʀᴇᴘᴏ ʟɪɴᴋ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴛʜᴇ  ʀᴇᴘᴏ.
 
-𖣔✯...❀𝔹𝐘🍁𖤍[🔥—𝐈𝐍𝐍𝐂𝐎𝐄𝐍𝐓_𝐉𝐀𝐀𝐓—❤️‍🔥](https://t.me/VICKY_CHOUDHARY_1203)...🍁✯𖣔"""
+✯ᴍᴀᴅᴇ ʙʏ✯ [✭ᴋɪɴɢ✭](https://t.me/InnocentIdkaaa)"""
 
 HELP_29 = """
 <b><u>ɴᴏᴛᴇs :</b></u>
@@ -390,7 +390,7 @@ HELP_29 = """
 /clear ➠ ᴛᴏ ᴄʟᴇᴀʀ ᴛʜᴇ ɴᴏᴛᴇs.
 /clearall ➠ ᴛᴏ ᴄʟᴇᴀʀ ᴀʟʟ ɴᴏᴛᴇs.
 
-𖣔✯...❀𝔹𝐘🍁𖤍[🔥—𝐈𝐍𝐍𝐂𝐎𝐄𝐍𝐓_𝐉𝐀𝐀𝐓—❤️‍🔥](https://t.me/VICKY_CHOUDHARY_1203)...🍁✯𖣔"""
+✯ᴍᴀᴅᴇ ʙʏ✯ [✭ᴋɪɴɢ✭](https://t.me/InnocentIdkaaa)"""
 
 HELP_30 = """
 <b><u>Dɪᴄᴇ :</b></u>
@@ -402,4 +402,4 @@ HELP_30 = """
 /football - Football ⚽
 /jackpot - Spin slot machine 🎰
 
-𖣔✯...❀𝔹𝐘🍁𖤍[🔥—𝐈𝐍𝐍𝐂𝐎𝐄𝐍𝐓_𝐉𝐀𝐀𝐓—❤️‍🔥](https://t.me/VICKY_CHOUDHARY_1203)...🍁✯𖣔"""
+✯ᴍᴀᴅᴇ ʙʏ✯ [✭ᴋɪɴɢ✭](https://t.me/InnocentIdkaaa)"""

@@ -61,6 +61,7 @@ STICKER = [
 "CAACAgUAAx0Cd9xEawACEN9mLuqlG8RAw-L8e1Pv3909WrYMhgACwBUAAh-sOVQ3vSSCUJbSYzQE",
 ]
 
+
 ANNIE_VID = [
 "https://telegra.ph/file/1726f9434ef52f54c12eb.mp4",
 "https://telegra.ph/file/a4d90b0cb759b67d68644.mp4",

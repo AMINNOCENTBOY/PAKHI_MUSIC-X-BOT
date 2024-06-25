@@ -140,12 +140,23 @@ async def start_pm(client, message: Message, _):
                 )
     else:
         out = private_panel(_)
-        served_chats = len(await get_served_chats())
-        served_users = len(await get_served_users())
-        UP, CPU, RAM, DISK = await bot_sys_stats()
+        accha = await message.reply_text(
+            text=random.choice(EMOJIOS),
+        )
+        await asyncio.sleep(1.3)
+        await accha.edit("👻")
+        await asyncio.sleep(0.2)
+        await accha.edit("✨")
+        await asyncio.sleep(0.2)
+        await accha.edit("🥀")
+        await asyncio.sleep(0.2)
+        await accha.delete()
+        umm = await message.reply_sticker(sticker=random.choice(STICKER))
+        await asyncio.sleep(2)
+        await umm.delete()
         await message.reply_video(
-            random.choice(ANNIE_VID),
-            caption=random.choice(AMOP).format(message.from_user.mention, app.mention, UP, DISK, CPU, RAM,served_users,served_chats),
+            video="https://telegra.ph/file/c35eec6daf85bb743cec6.mp4",
+            caption=_["start_2"].format(message.from_user.mention, app.mention),
             reply_markup=InlineKeyboardMarkup(out),
         )
         if await is_on_off(2):
@@ -153,7 +164,6 @@ async def start_pm(client, message: Message, _):
                 chat_id=config.LOGGER_ID,
                 text=f"{message.from_user.mention} ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ.\n\n<b>ᴜsᴇʀ ɪᴅ :</b> <code>{message.from_user.id}</code>\n<b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{message.from_user.username}",
             )
-
 
 @app.on_message(filters.command(["start"]) & filters.group & ~BANNED_USERS)
 @LanguageStart

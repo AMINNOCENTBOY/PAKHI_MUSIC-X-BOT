@@ -23,7 +23,7 @@ async def start(client: Client, message: Message):
         ],
                 [
             InlineKeyboardButton(
-                text="⎯꯭‌✭𝆺꯭𝅥𝚄𝙿𝙳𝙰𝚃𝙴✭", url=f"https://t.me/manmarziiyaan"
+                text="⎯꯭‌✭𝆺꯭𝅥𝚄𝙿𝙳𝙰𝚃𝙴✭", url=f"https://t.me/khamosiyaaaan"
             ),
                 ],
                 [

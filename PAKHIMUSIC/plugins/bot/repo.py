@@ -26,8 +26,8 @@ async def start(_, msg):
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
-    await msg.reply_photo(
-        photo="https://graph.org/file/5730046b13f9755ebe5bc.jpg",
+    await msg.reply_video(
+        video="https://telegra.ph/file/5055431440399b1c3bd33.mp4",
         caption=start_txt,
         reply_markup=reply_markup
     )

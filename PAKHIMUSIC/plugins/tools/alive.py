@@ -11,7 +11,6 @@ async def start(client: Client, message: Message):
     await message.reply_video(
         video=f"https://graph.org/file/e999c40cb700e7c684b75.mp4",
         caption=_["ping_1"].format(app.mention),
-    )
         reply_markup=InlineKeyboardMarkup(
             [
                [

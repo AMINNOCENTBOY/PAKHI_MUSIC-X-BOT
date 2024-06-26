@@ -58,7 +58,7 @@ async def start(_, msg):
         reply_markup=InlineKeyboardMarkup(
          [
             [(text="ᴄʜᴀᴛᴛɪɴɢ ✨", url=f"https://t.me/friendship_forever_group143")],
-        )
+        ),
      
         caption=start_txt,
         reply_markup=reply_markup

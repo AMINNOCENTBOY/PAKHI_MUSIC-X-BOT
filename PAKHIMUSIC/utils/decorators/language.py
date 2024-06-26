@@ -1,3 +1,5 @@
+from strings import get_string
+
 from PAKHIMUSIC.misc import SUDOERS
 from PAKHIMUSIC.utils.database import get_lang, is_maintenance
 from strings import get_string

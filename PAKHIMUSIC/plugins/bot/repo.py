@@ -18,7 +18,7 @@ async def start(_, msg):
             ],
      
             [
-             InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/botverse_suppert_chat"),
+             InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/{app.username}?start=help"),
              InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/VICKY_CHOUDHARY_1203"),
              ],
      

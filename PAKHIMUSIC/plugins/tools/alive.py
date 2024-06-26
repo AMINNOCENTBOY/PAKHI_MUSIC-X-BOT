@@ -6,7 +6,7 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 
-@app.on_message(filters.command(["alive"]))
+@app.on_message(filters.command(["ping","alive"]))
 async def start(client: Client, message: Message):
     await message.reply_video(
         video=f"https://graph.org/file/e999c40cb700e7c684b75.mp4",

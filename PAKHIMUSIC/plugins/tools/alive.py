@@ -37,6 +37,6 @@ async def start(client: Client, message: Message):
                         "⛧ᴄʟᴏsᴇ⛧", callback_data="close"
                     )
                 ],
-            ]
+            ],
         )
     )

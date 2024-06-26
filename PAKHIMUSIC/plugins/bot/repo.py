@@ -56,9 +56,7 @@ async def start(_, msg):
     await msg.reply__media(
         InputMediaVideo("https://telegra.ph/file/3473a79595e79f3a494c0.mp4"),
         reply_markup=InlineKeyboardMarkup(
-    
-            [(text="ᴄʜᴀᴛᴛɪɴɢ ✨", url=f"https://t.me/friendship_forever_group143")],
+             [(text="ᴄʜᴀᴛᴛɪɴɢ ✨", url=f"https://t.me/friendship_forever_group143")],
           )
-     
-        caption=start_txt,
+       caption=start_txt,
     )

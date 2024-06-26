@@ -10,7 +10,15 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 async def start(client: Client, message: Message):
     await message.reply_video(
         video=f"https://graph.org/file/e999c40cb700e7c684b75.mp4",
-        caption=f"❤️ ʜᴇʏ {message.from_user.mention}\n\n🔮 ɪ ᴀᴍ {MUSIC_BOT_NAME}\n\n✨ ɪ ᴀᴍ ғᴀsᴛ ᴀɴᴅ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.\n\n💫 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ🤍...\n\n━━━━━━━━━━━━━━━━━━❄",
+        caption=_["ping_1"].format(app.mention),
+    )
+    pytgping = await Anony.ping()
+    UP, CPU, RAM, DISK = await bot_sys_stats()
+    resp = (datetime.now() - start).microseconds / 1000
+    await response.edit_text(
+        _["ping_2"].format(resp, app.mention, UP, RAM, CPU, DISK, pytgping),
+        reply_markup=supp_markup(_),
+    )
         reply_markup=InlineKeyboardMarkup(
             [
                [

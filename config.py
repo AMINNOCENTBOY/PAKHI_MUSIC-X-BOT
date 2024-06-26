@@ -16,7 +16,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","InnocentIdkaaa")
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME" , "Hdtv46_bot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "Hdfj")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME" , "Hdfj")
 #get Your Assistant User name
 ASSUSERNAME = getenv("ASSUSERNAME" , "GUPP_SHUP_ASSTANT")
 EVALOP = list(map(int, getenv("EVALOP", "7001982096").split()))

@@ -19,8 +19,7 @@ async def start(client: Client, message: Message):
         _["ping_2"].format(resp, app.mention, UP, RAM, CPU, DISK, pytgping),
         reply_markup=supp_markup(_),
         reply_markup=InlineKeyboardMarkup(
-            [
-               [
+              [
             InlineKeyboardButton(
                 text="⎯꯭‌✭𝆺꯭𝅥𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁✭", url=f"https://t.me/InnocentIdkaaa"
             ),

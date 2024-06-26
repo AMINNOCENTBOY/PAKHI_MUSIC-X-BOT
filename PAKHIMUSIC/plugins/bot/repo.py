@@ -3,7 +3,9 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from PAKHIMUSIC import app
 from config import BOT_USERNAME
 
-start_txt = """
+start_txt = """**
+✪ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐏𝐀𝐊𝐇𝐈 𝐌𝐔𝐒𝐈𝐂 𝐑𝐄𝐏𝐎 ✪
+ 
 🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁
 
 @app.on_message(filters.command("repo"))

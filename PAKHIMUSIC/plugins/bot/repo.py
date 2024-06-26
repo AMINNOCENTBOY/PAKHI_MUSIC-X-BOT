@@ -53,13 +53,12 @@ async def start(_, msg):
        ]
     
     reply_markup = InlineKeyboardMarkup(buttons)
-    await CallbackQuery.edit_message_media(
+    await msg.reply__media(
         InputMediaVideo("https://telegra.ph/file/3473a79595e79f3a494c0.mp4"),
         reply_markup=InlineKeyboardMarkup(
          [
             [(text="ᴄʜᴀᴛᴛɪɴɢ ✨", url=f"https://t.me/friendship_forever_group143")],
-        ),
+          )
      
         caption=start_txt,
-        reply_markup=reply_markup
     )

@@ -23,8 +23,8 @@ async def start(_, msg):
              ],
      
              [
-                    InlineKeyboardButton(
-                        "⛧ᴄʟᴏsᴇ⛧", callback_data="close"
+                   InlineKeyboardButton(
+                        "⛧ᴄʟᴏsᴇ⛧", callback_data="close"),
              ],
     
        ]

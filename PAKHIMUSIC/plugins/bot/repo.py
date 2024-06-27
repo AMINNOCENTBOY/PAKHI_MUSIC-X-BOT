@@ -21,10 +21,11 @@ async def start(_, msg):
              InlineKeyboardButton("⎯꯭‌✭𝆺꯭𝅥ᴿᴱᴾᴼ .𓈀✔", url="https://t.me/friendship_forever_group143"),
              InlineKeyboardButton("⎯꯭‌✭𝆺꯭𝅥𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁✭", url="https://t.me/InnocentIdkaaa"),
              ],
-                  [
+     
+             [
                     InlineKeyboardButton(
                         "⛧ᴄʟᴏsᴇ⛧", callback_data="close"
-                    )
+             ],
     
        ]
     
